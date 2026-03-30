@@ -40,5 +40,9 @@ O sistema foi organizado em funções para separar responsabilidades:
 3 - Sacar
 4 - Ver historico
 5 - Sair
+```
 
-Desenvolvido por [AndreyDF]
+## 👨‍💻 Autor
+
+Desenvolvido por **Andrey Diniz**
+   
