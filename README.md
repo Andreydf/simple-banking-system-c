@@ -1,4 +1,4 @@
-## Sistema bancário simples em C.
+## Sistema bancário simples em C
 
 Este projeto é uma simulação de um sistema bancário simples desenvolvido em linguagem C, com execução via terminal.
 
